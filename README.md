@@ -10,6 +10,6 @@ To fix it, I simply reroute the function call to another function without names,
 
 Rename the original "AkSoundEngine.dll" to "AkSoundEngine.dll_". This name is important, don't use another.
 
-Replace it with the proxy "AkSoundEngine.dll".
+Replace it with the proxy "AkSoundEngine.dll". It can be downloaded [here](https://github.com/T-nou/mtga-fix/releases/download/release/AkSoundEngine.dll)
 
 That's it.
